@@ -1,16 +1,15 @@
-## Hi there 👋
+# Miguel Garza
 
-<!--
-**miguelgarza-luga/miguelgarza-luga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CEO · Grupo LUGA
 
-Here are some ideas to get you started:
+Diseñamos, desarrollamos y operamos soluciones digitales para empresas, integrando tecnología, software, infraestructura y operación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Áreas de trabajo**
+
+- Desarrollo de software
+- Infraestructura y operación tecnológica
+- Plataformas y soluciones digitales
+- Automatización e inteligencia artificial
+- Administración y evolución de sistemas
+
+🌐 www.grupoluga.com
