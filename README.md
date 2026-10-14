@@ -1,6 +1,6 @@
 # Miguel Garza
 
-### CEO · Grupo LUGA
+### CEO @ Grupo LUGA
 
 Diseñamos, desarrollamos y operamos soluciones digitales para empresas, integrando tecnología, software, infraestructura y operación.
 
@@ -12,4 +12,4 @@ Diseñamos, desarrollamos y operamos soluciones digitales para empresas, integra
 - Automatización e inteligencia artificial
 - Administración y evolución de sistemas
 
-🌐 www.grupoluga.com
+🌐 [www.grupoluga.com](https://www.grupoluga.com)
